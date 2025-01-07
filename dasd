@@ -1,0 +1,42 @@
+[33mcommit cbbcb943bcc83f244259da1e3a5a7a3900f406fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature02[m[33m)[m
+Merge: 0cb387a c7cb12a
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Tue Jan 7 09:16:39 2025 +0100
+
+    Merge branch 'feature01' into feature02
+
+[33mcommit c7cb12a224991ab3a3fdaaa4fb3acd647edbff59[m[33m ([m[1;32mfeature01[m[33m)[m
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Thu Dec 19 11:56:00 2024 +0100
+
+    Mi tercer commit en feature01
+
+[33mcommit 0cb387a85f091030fe7ff9802845ddaf3faa648a[m
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Thu Dec 19 11:55:05 2024 +0100
+
+    Mi primer commit en feature02
+
+[33mcommit 078d426defcf75d0f3cdcbeef646648178c52ee8[m
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Thu Dec 19 11:53:00 2024 +0100
+
+    Segundo commit en feature01
+
+[33mcommit 2779832441ff17723f07053e036e9fbf630c306e[m
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Thu Dec 19 11:51:07 2024 +0100
+
+    Mi primer commit en feature01
+
+[33mcommit de21c96cd8921024fa687a9ba5102de37243142c[m[33m ([m[1;32mmaster[m[33m)[m
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Thu Dec 19 11:39:37 2024 +0100
+
+    Segundo commit en main
+
+[33mcommit 9ce92f44486da2560cbf66bcd022f4d228c1ecfc[m
+Author: hgarcia_boscos <hectorfabio.garcia@salesianoslosboscos.com>
+Date:   Thu Dec 19 11:39:17 2024 +0100
+
+    Primer commit en main
